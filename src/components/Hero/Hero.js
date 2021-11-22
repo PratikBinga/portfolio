@@ -21,11 +21,11 @@ const Hero = (props) => (
     <Section row nopadding>
       <LeftSection>
         <SectionTitle main center>
-          Welcome To <br />
-          My Personal Portfolio
+          Hi, I am <br />
+          Pratik Adagale.
         </SectionTitle>
         <SectionText>
-          I am Pratik Adagale, passionate web developer with good technical
+          A passionate Full Stack developer with good technical
           knowledge and communication skills. Customer Driven, always eager to
           learn new Tech and apply those skills in Real to build quality Product
           & enhance customer business.
